@@ -31,7 +31,8 @@ A modern, role-based school management system that helps students, teachers, par
 
 This project is powered by the following technologies:
 
-<div class="flex flex-wrap justify-center gap-8 py-6 flex-row-reverse">
+<!-- Tech Stack Section -->
+<div class="flex flex-wrap justify-start gap-8 py-6" style="direction: rtl;">
   <div class="transform hover:scale-105 transition-all duration-300">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="TypeScript" class="rounded-xl p-4 bg-gradient-to-r from-blue-400 to-blue-600 shadow-lg"/>
   </div>
