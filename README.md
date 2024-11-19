@@ -32,21 +32,11 @@ A modern, role-based school management system that helps students, teachers, par
 This project is powered by the following technologies:
 
 <!-- Tech Stack Section -->
-  <div class="transform hover:scale-105 transition-all duration-300">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="TypeScript" class="rounded-xl p-4 bg-gradient-to-r from-blue-400 to-blue-600 shadow-lg"/>
-  </div>
-  <div class="transform hover:scale-105 transition-all duration-300">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="Next.js" class="rounded-xl p-4 bg-gradient-to-r from-blue-400 to-blue-600 shadow-lg"/>
-  </div>
-  <div class="transform hover:scale-105 transition-all duration-300">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="React" class="rounded-xl p-4 bg-gradient-to-r from-blue-400 to-blue-600 shadow-lg"/>
-  </div>
-  <div class="transform hover:scale-105 transition-all duration-300">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="60" alt="Prisma" class="rounded-xl p-4 bg-gradient-to-r from-blue-400 to-blue-600 shadow-lg"/>
-  </div>
-  <div class="transform hover:scale-105 transition-all duration-300">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="PostgreSQL" class="rounded-xl p-4 bg-gradient-to-r from-blue-400 to-blue-600 shadow-lg"/>
-  </div>
-  <div class="transform hover:scale-105 transition-all duration-300">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60" alt="Tailwind CSS" class="rounded-xl p-4 bg-gradient-to-r from-blue-400 to-blue-600 shadow-lg"/>
-  </div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="TypeScript" style="margin: 0 15px; padding: 10px; border-radius: 10px; background: #f7f7f7;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="Next.js" style="margin: 0 15px; padding: 10px; border-radius: 10px; background: #f7f7f7;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="React" style="margin: 0 15px; padding: 10px; border-radius: 10px; background: #f7f7f7;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="60" alt="Prisma" style="margin: 0 15px; padding: 10px; border-radius: 10px; background: #f7f7f7;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="PostgreSQL" style="margin: 0 15px; padding: 10px; border-radius: 10px; background: #f7f7f7;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60" alt="Tailwind CSS" style="margin: 0 15px; padding: 10px; border-radius: 10px; background: #f7f7f7;"/>
+</p>
