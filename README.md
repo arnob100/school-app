@@ -38,9 +38,6 @@ This project is powered by the following technologies:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="60" alt="Prisma" style="margin: 0 15px; padding: 10px; border-radius: 10px; background: #f7f7f7;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="PostgreSQL" style="margin: 0 15px; padding: 10px; border-radius: 10px; background: #f7f7f7;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60" alt="Tailwind CSS" style="margin: 0 15px; padding: 10px; border-radius: 10px; background: #f7f7f7;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zod/zod-original.svg" height="60" alt="Zod" style="margin: 0 15px; padding: 10px; border-radius: 10px; background: #f7f7f7;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lucide/lucide-original.svg" height="60" alt="Lucide React" style="margin: 0 15px; padding: 10px; border-radius: 10px; background: #f7f7f7;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shadcn/shadcn-original.svg" height="60" alt="ShadCN" style="margin: 0 15px; padding: 10px; border-radius: 10px; background: #f7f7f7;"/>
 </p>
 
   </div>
